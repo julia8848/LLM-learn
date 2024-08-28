@@ -167,3 +167,4 @@ peft/temp/
 deepspeed/output_dir
 RLHF
 zhipu/output/
+zhipu/output1/
